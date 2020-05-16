@@ -1,0 +1,41 @@
+1st class
+
+0.read the  excel file
+1.remove null values.
+2.Use first row as header
+3.Remove the top unwanted rows
+4.open the Data view and see the data
+
+Note: In the report view If want to know the  total quantity that have been ordered of particular sales report you have some thing called as Card
+5.click on the card add quantity to that card then you come to total quantity ordered
+
+Note : what was sales according to the product category for this king you have donut chart
+6.select the donut chart and then click on the product category and slaes in to the value setion
+	 
+Note :if want to change the look and field of Donut chart go bruch icon and change select Data colors change the color what ever 
+you want and enable border so that you will get a border
+
+
+Note : we have something called as Tables because this text tables are good for quantitative analysis where you can see all the detais of your report clearly, if want to change the column headers -->(background color,font color)
+1.i want to know to know the customer wise sales --> Add customer name and sales, column to the table
+2.you can also bring region to the the table so that region wise sales you can analyse 
+
+Note:- There is rule for slecting the visiuals i.e every visual has certian segments
+     1.for showing the compotion of your data you will pie chart are donut chart
+	 2.for showing the comparision of your data you can use bar graph
+	 3.for distribution of your data we can use the histogram
+	 4.to know the trend of your data you can use the line chart e.g : interms of sales ...etc 	 
+	 5.if to know the relation b/w data i.e upwardrelation are down ward relation you can use scatter plot e.g: relation b/w sales and profit
+	 
+	 
+0.Read csv file sales by geography Note: when you are going to click on transform see the delimeter
+1.Remove blanck rows
+2.remove unwanted rows  Note: Here we have two option choose carefully according to the need
+3.use first row as header
+	 
+convert sales column  decimal to whole no -->right click on the column select transform data-->round
+
+Note : if want to extract firstname and lastname in two seprate columns we have have an option call split column or go to Add column
+4.Here select the state column then go to option split column --> By delimeters-->space
+
+5.Add a Table select city & sales
